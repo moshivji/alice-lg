@@ -9,6 +9,7 @@ Take a look at Alice-LG production examples at:
 - https://lg.megaport.com/
 - https://lg.netnod.se/
 - https://alice-rs.linx.net/
+- https://alice-collector.linx.net
 - https://lg.ix.br/
 
 And checkout the API at:
